@@ -1,7 +1,3 @@
-Certainly! Here's a concise summary description for your travel website project:
-
----
-
 **Project Title: Scenic Explorers - A Travel Website Landing Page**
 
 **Technology Stack:** HTML, SCSS, AOS Animation Library
@@ -18,6 +14,4 @@ Scenic Explorers is a visually captivating travel website, designed as a landing
 **Design Aesthetic:**
 The website boasts a beautiful design, characterized by fluid navigation and a harmonious color scheme that resonates with the theme of travel and exploration.
 
----
 
-This summary highlights the key aspects of your project, emphasizing both the technical features and the user experience design.
